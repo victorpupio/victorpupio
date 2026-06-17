@@ -1,10 +1,9 @@
 ## Oii, sou o Victor, me qualificando na TI
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorpupio&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpupio&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=victorpupio&show_icons=true&theme=tokyonight" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpupio&layout=compact&theme=tokyonight" />
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
