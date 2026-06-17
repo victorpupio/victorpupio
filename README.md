@@ -1,7 +1,11 @@
 ## Oii, sou o Victor, me qualificando na TI
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpupio&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpupio&layout=donut)](https://github.com/victorpupio/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/victorpupio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorpupio&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpupio&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
