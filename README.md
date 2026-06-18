@@ -1,4 +1,4 @@
-## Oii, sou o Victor, me qualificando na TI
+## Oii, sou o Victor, me qualificando na TI, aspirante a Engenheiro de software pela Unicesumar!
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=victorpupio&show_icons=true&theme=tokyonight" />
@@ -24,8 +24,13 @@
  	<a href="https://www.twitch.tv/cancan________" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/NXcXtGVM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victorhugopupio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <img src="https://github.com/victorpupio/gif/blob/main/download.gif" width="400px" align="center">
+ <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+  
+</a>
+
+<img src="https://raw.githubusercontent.com/victorpupio/gif/main/download.gif" width="100px">
 
 
   
